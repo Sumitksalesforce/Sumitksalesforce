@@ -77,12 +77,5 @@ I specialize in transforming complex business requirements into clean, maintaina
 
 ---
 
-## 🤝 Let’s Connect
-
-📌 Upwork: (your link)  
-📌 LinkedIn: (your link)  
-
----
-
 ⭐ Open to freelance, contract, and long-term Salesforce projects.
 
